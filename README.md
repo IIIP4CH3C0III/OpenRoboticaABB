@@ -1,8 +1,6 @@
-# OpenRoboticaABB
-Here are published all programs made for robotics events.
+# OpenRobotica2023
 
-For the OpenRobotica2023 of ISEP
-  - https://github.com/IIIP4CH3C0III/OpenRoboticaABB/blob/4674cf320b418f7eaea41fac9a11e935162f8e13/OpenRoboticaISEP2023.rspag
+ Consult here : https://github.com/IIIP4CH3C0III/OpenRoboticaABB/blob/4674cf320b418f7eaea41fac9a11e935162f8e13/OpenRoboticaISEP2023.rspag
     
   In this project, we encountered a challenge involving the complete insertion of silicone into a coil, from its starting point to its ending point, while moving at a user-defined speed to produce perfectly circular shapes. Additionally, we needed to ensure that the application of the silicone had the required overlap specified by the user and that we accounted for the coil's dimensions and the silicone's thickness.
 
